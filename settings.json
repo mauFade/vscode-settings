@@ -9,5 +9,9 @@
   "typescript.suggest.autoImports": true,
   "editor.tabSize": 2,
   "editor.bracketPairColorization.enabled": false,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "security.workspace.trust.untrustedFiles": "open"
 }
