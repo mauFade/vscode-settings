@@ -6,12 +6,15 @@
   "editor.fontFamily": "Fira Code",
   "editor.fontSize": 14,
   "editor.fontLigatures": true,
-  "typescript.suggest.autoImports": true,
   "editor.tabSize": 2,
   "editor.bracketPairColorization.enabled": false,
+  "editor.guides.bracketPairs": "active",
   "editor.formatOnSave": true,
   "[prisma]": {
     "editor.defaultFormatter": "Prisma.prisma"
   },
-  "security.workspace.trust.untrustedFiles": "open"
+  "security.workspace.trust.untrustedFiles": "open",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.suggest.autoImports": true,
+  "javascript.suggest.autoImports": true,
 }
