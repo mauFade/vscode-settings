@@ -1,0 +1,13 @@
+{
+  "workbench.colorTheme": "Omni",
+  "workbench.iconTheme": "material-icon-theme",
+  "tabnine.experimentalAutoImports": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "typescript.suggest.autoImports": true,
+  "editor.tabSize": 2,
+  "editor.bracketPairColorization.enabled": false,
+  "editor.formatOnSave": true
+}
