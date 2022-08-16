@@ -24,6 +24,11 @@
     "migrations": "tools",
     "typeorm": "database",
     "dtos": "typescript",
-    "repositories": "mappings"
-  }
+    "repositories": "mappings",
+    "mongodb": "database",
+    "MongoDB": "database",
+    "entities": "class"
+  },
+  "template-string-converter.enabled": true,
+  "template-string-converter.autoRemoveTemplateString": true
 }
