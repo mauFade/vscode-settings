@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "Omni",
+  "workbench.colorTheme": "Tokyo Night",
   "workbench.iconTheme": "material-icon-theme",
   "tabnine.experimentalAutoImports": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -15,7 +15,6 @@
   },
   "security.workspace.trust.untrustedFiles": "open",
   "workbench.startupEditor": "none",
-  "template-string-converter.autoRemoveTemplateString": true,
   "template-string-converter.addBracketsToProps": true,
   "material-icon-theme.folders.associations": {
     "use-cases": "functions",
@@ -27,8 +26,8 @@
     "repositories": "mappings",
     "mongodb": "database",
     "MongoDB": "database",
+    "pg": "database",
+    "PG": "database",
     "entities": "class"
   },
-  "template-string-converter.enabled": true,
-  "template-string-converter.autoRemoveTemplateString": true
 }
